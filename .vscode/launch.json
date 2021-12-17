@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ZorrilloApplication<reto2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "zorrillo.reto2.ZorrilloApplication",
+            "projectName": "reto2",
+            "args": ""
+        }
+    ]
+}
